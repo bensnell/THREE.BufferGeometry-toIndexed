@@ -1,3 +1,5 @@
+import * as THREE from 'three';
+
 // Author: Fyrestar https://mevedia.com (https://github.com/Fyrestar/THREE.BufferGeometry-toIndexed)
 THREE.BufferGeometry.prototype.toIndexed = function () {
 
